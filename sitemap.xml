@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://vezhlivoetaxi.com/</loc>
+	<lastmod>2016-01-28</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://vezhlivoetaxi.com/index.html</loc>
+	<lastmod>2016-01-28</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://vezhlivoetaxi.com/Transfer.html</loc>
+	<lastmod>2016-01-28</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://vezhlivoetaxi.com/Price.html</loc>
+	<lastmod>2016-01-28</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://vezhlivoetaxi.com/Requisite.html</loc>
+	<lastmod>2016-01-28</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://vezhlivoetaxi.com/Contacts.html</loc>
+	<lastmod>2016-06-05</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>

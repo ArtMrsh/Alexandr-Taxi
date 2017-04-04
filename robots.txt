@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /style.css/
+
+User-agent: Yandex
+Disallow: /style.css/
+Host: vezhlivoetaxi.com
+
+Sitemap: http://vezhlivoetaxi.com/sitemap.xml

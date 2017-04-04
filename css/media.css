@@ -1,0 +1,215 @@
+@media screen and (max-width: 1024px) {
+   .logo {
+      margin: 0 auto 30px auto;
+      float: none;
+      width: 100%;
+      text-align: center;
+   }
+   .header_left__image {
+      display: none;
+   }
+   .description {
+      display: none;
+   }
+   .bottom_line {
+      display: none;
+   }
+   .box {
+      width: 60%;
+      float: none;
+      margin: 0 auto;
+      max-height: 50px;
+      overflow: hidden;
+      transition: max-height .7s ease;
+   }
+   .services {
+      margin-bottom: 25px;
+   }
+   .transfer_prices {
+      padding-top: 12px;
+   }
+   .head {
+      background-image: none;
+      background-color: #FE141F;
+      height: 50px;
+   }
+   h4 {
+      padding-top: 15px;
+   }
+   .right {
+      display: none;
+   }
+   .triangle_one, .triangle_two, .triangle_three  {
+      display: block;
+      cursor: pointer;
+      transition: all .5s ease;
+   }
+   .rotate {
+      transform-origin: 0 center;
+      transform: rotateX(180deg);
+   }
+   .head {
+      width: 100%;
+      margin: 0 auto;
+      padding-left: 10px;
+      box-sizing: border-box;
+   }
+   .payment .head, .transfer .head, .prices_box .head, .pay .head{
+      width: 100%;
+      margin: 0 auto;
+      padding-left: 10px;
+      box-sizing: border-box;
+   }
+   .transfer .head h4 , .prices_box .head h4{
+      font-size: 15px;
+   }
+   .payment {
+      margin-top: 25px;
+      margin-bottom: 25px;
+      background-image: none;
+   }
+   .pay_methods {
+      padding-top: 10px;
+   }
+   .autos {
+      width: 60%;
+      float: none;
+      margin: 0 auto;
+      min-height: 0;
+      max-height: 50px;
+      overflow: hidden;
+   }
+   .show_box {
+      max-height: 20em;
+      background-color: #ebebeb;
+   }
+   .contacts {
+      float: none;
+      text-align: center;
+   }
+   .contacts p {
+      padding-top: 70px;
+   }
+   .bottom_triangle {
+      cursor: pointer;
+   }
+   .gallery {
+      min-height: 0;
+      max-height: 100%;
+   }
+   .phone_link {
+      display: block;
+      left: 2%;
+      bottom: 3%;
+   }
+   .bottom_background {
+      display: none;
+   }
+   .alexandr_contacts, .transfer, .prices_box, .pay {
+      min-height: 0;
+      max-height: 100%;
+      margin-bottom: 20px;
+   }
+   .transfer_bottom {
+      min-height: 0;
+      max-height: 100%;
+      margin-bottom: 20px;
+      margin: 0 auto;
+   }
+   .alexandr_contacts .head {
+      width: 100%;
+   }
+   .transfer .head {
+      height: 60px;
+   }
+   .contacts_transfer {
+      margin-right: 0;
+      margin-bottom: 20px;
+   }
+}
+@media screen and (max-width: 678px) {
+   .box {
+      width: 80%;
+   }
+   .phone_link {
+      height: 70px;
+      width: 70px;
+      -webkit-background-size: 70px 70px;
+      background-size: 70px 70px;
+   }
+   .table_descr {
+      margin-left: 0;
+      margin-bottom: 10px;
+      width: 100%;
+   }
+   .prices_box .head {
+      height: 60px;
+   }
+}
+@media screen and (max-width: 480px) {
+   .logo_img > img {
+      width: 180px;
+   }
+   .box {
+      width: 100%;
+      max-height: 40px;
+   }
+   .show_box {
+      max-height: 20em;
+      background-color: #ebebeb;
+   }
+   .head {
+      height: 40px;
+   }
+   h4 {
+      padding-top: 12px;
+      font-size: 16px;
+   }
+   .gallery {
+      width: 90%;
+      margin: 20;
+      max-height: 100%;
+   }
+   .gallery .head {
+      padding-left: 0;
+   }
+   .gallery .head h4 {
+      font-size: 14px;
+      padding-left: 8px;
+   }
+   .triangle_one, .triangle_two, .triangle_three {
+      top: 1px;
+   }
+   .contacts > p {
+      padding-top: 20px;
+   }
+   .bottom_background {
+      margin-bottom: 30px;
+   }
+   .alexandr_contacts, .transfer, .transfer_bottom, .prices_box, .pay {
+      min-height: 0;
+      max-height: 100%;
+      width: 90%;
+      margin: 0 auto 20px auto;
+   }
+   .table {
+      font-size: 12px;
+   }
+   .transfer .head {
+      height: 80px;
+   }
+   .pay .head {
+      height: 60px;
+   }
+   .transfer .link_descr  ,.prices_box .link_descr{
+      padding-left: 10px;
+      padding-right: 10px;
+   }
+   .transfer .contacts_inner, .prices_box .contacts_inner {
+      padding-left: 5px;
+      padding-right: 5px;
+   }
+   p.small {
+      padding-left: 5px;
+   }
+}
